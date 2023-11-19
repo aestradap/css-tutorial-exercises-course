@@ -1,6 +1,12 @@
 body {
 	background: #bdbdbd;
+	text-align: center;
+	padding-top: 40px;
 }
 .rounded {
 	border-radius: 100%;
+	object-fit: cover;
+	object-position: top;
+	width: 400px;
+	height: 400px;
 }
